@@ -1,8 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I recently delved into the Tremor package and crafted a mobile-responsive dashboard using Vite and Tailwind. Leveraging Vite's efficient development environment and Tailwind's utility-first CSS framework, I achieved a visually appealing and responsive design for my dashboard. Tremor has excellent inbuilt chart components and can easily be applied to any dashboard
+Thanks to code commerce youtube for this tutorial.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+deployed at - https://dash-vite.netlify.app/#top
